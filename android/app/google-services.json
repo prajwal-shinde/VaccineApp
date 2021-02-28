@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837534922536",
+    "project_id": "vaccine-center-hackathon",
+    "storage_bucket": "vaccine-center-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837534922536:android:a0b3331bbb54546539c21d",
+        "android_client_info": {
+          "package_name": "com.example.vaccineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837534922536-18vrl03uufup9pl857ijh7rm9n2cc4r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vaccineapp",
+            "certificate_hash": "3046a81a6eeb9d828130f9afe88598acbbb648da"
+          }
+        },
+        {
+          "client_id": "837534922536-5li134dq5g49v05o60medrc24f036acl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hKEY8Hs8QUKxS_wE9nIBhXICXV0mKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837534922536-5li134dq5g49v05o60medrc24f036acl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

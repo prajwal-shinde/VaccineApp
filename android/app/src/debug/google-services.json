@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812751301320",
+    "project_id": "vaccinator-cf826",
+    "storage_bucket": "vaccinator-cf826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812751301320:android:a705632fb5356f5abdd3fd",
+        "android_client_info": {
+          "package_name": "com.example.vaccineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812751301320-hfq0i7356hm9di7kgrcfpdd11rmnt6jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhTpwEdDVyCzlhgvmhBkdFQaGMKnUH6Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812751301320-hfq0i7356hm9di7kgrcfpdd11rmnt6jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
